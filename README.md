@@ -3,7 +3,8 @@ This project was made with the idea of making the job of comparing my drives wit
 
 # Some things to know
 * Each drive must be logged via Whatsapp
-* The logged data contains the buss number or train, source station, destination station and boarding time.
+* The logged data contains the buss number or train, source station, destination station and boarding time
+* Run with Jupyter for best experience
 
 # Usage
 * Export Whatsapp chat to email and put the .txt file in the same folder as the python file
